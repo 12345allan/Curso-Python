@@ -1,5 +1,5 @@
 # Atividade 01: Criar as variáveis com os tipos de dados que foram dados nas aulas do curso 
-# Minhas resostas:
+# Minhas resostas da atividade:
 nome = 'Allan'
 print('Nome:', nome)
 sobrenome = 'Richard'
