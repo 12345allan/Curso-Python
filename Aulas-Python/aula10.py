@@ -2,6 +2,8 @@
 # Tudo em python é um objeto, geralmente objetos tem métodos dentro deles;
 # Objetos tem ações eles podem fazer algo;
 # Metodos são funcões que podem fazer algo dentro do dado do objeto.
+# Parâmetro : Variável declarada na definição da função 
+# Argumento : Valor passado para a função durante a chamada
 a = 'A'
 b = 'B'
 c = 1.1
