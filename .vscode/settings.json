@@ -13,5 +13,7 @@
         "files.autoSave": "afterDelay",
         "mssql.enableRichExperiences": true,
         "git.confirmSync": false,
-        "database-client.autoSync": true
+        "database-client.autoSync": true,
+        "python.analysis.typeCheckingMode": "basic",
+        "python.analysis.autoImportCompletions": true
     }
