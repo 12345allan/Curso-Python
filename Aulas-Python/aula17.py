@@ -1,5 +1,5 @@
 # Operador lógico "not"
-# Usado para inverteer expressões
+# Usado para inverter expressões
 # not True = False
 # not False = True 
 #senha = input('Senha: ')
